@@ -15,7 +15,7 @@ steps:
     mavenOptions: '-Xmx3072m'
     mavenHome: 'C:\Program Files\apache-maven-3.9.6-bin\apache-maven-3.9.6'
     javaHomeOption: 'JDKVersion'
-    jdkVersionOption: '1.8'
+    jdkVersionOption: '22'
     jdkArchitectureOption: 'x64'
     publishJUnitResults: true
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
