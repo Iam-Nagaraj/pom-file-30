@@ -21,7 +21,3 @@ steps:
     testResultsFiles: '**/surefire-reports/TEST-*.xml'
     goals: 'package'
 
-
-  env:
-    JAVA_HOME_8_X64: 'C:\myagent\vsts-agent-win-x64-3.236.1'
-
